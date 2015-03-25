@@ -1,0 +1,26 @@
+<ion-view view-title="Login">
+  <ion-content class="padding">
+    Please log in or click the exit button.
+	<div class="padding list">
+		<label class="item item-input">
+			<span class="input-label">Username</span>
+			<input type="text" ng-model="user.username">
+		</label>
+		<label class="item item-input">
+			<span class="input-label">Password</span>
+			<input type="password" ng-model="user.password">
+			<a class="button icon ion-help-circled" href="#/forgot-pw"></a>
+		</label>
+	</div>
+	<div class="padding">
+		<button class="button button-block button-positive" ng-click="signIn(user)">
+			Sign-In
+		</button>
+	</div>
+	<div class="padding">
+		<button class="button button-block button-assertive" ng-click="exit()">
+			Exit
+		</button>
+	</div>
+  </ion-content>
+</ion-view>

@@ -7,6 +7,30 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "www/index.html",
+			"settings":
+			{
+				"buffer_size": 1132,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/js/app.js",
+			"settings":
+			{
+				"buffer_size": 2299,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/templates/tabs.html",
+			"settings":
+			{
+				"buffer_size": 840,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -32,6 +56,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/omcnamara/Documents/Projects/budjee/.gitignore",
 		"//dev-2k3-web2/sites/riverparkfunds.extranet/Templates/Funds_Holdings_ShortTerm.aspx",
 		"//10.100.4.15/wwwroot/RiverParkFunds/Templates/Funds_Holdings_ShortTerm.aspx",
 		"//10.100.4.15/wwwroot/RiverParkFunds/Templates/Funds_Holdings_LongShort.aspx",
@@ -74,8 +99,93 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "www/index.html",
+					"settings":
+					{
+						"buffer_size": 1132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1113,
+								1113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/js/app.js",
+					"settings":
+					{
+						"buffer_size": 2299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1277,
+								1277
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "www/templates/tabs.html",
+					"settings":
+					{
+						"buffer_size": 840,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								840,
+								840
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
