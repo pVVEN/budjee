@@ -11,7 +11,7 @@
 			"file": "www/index.html",
 			"settings":
 			{
-				"buffer_size": 1132,
+				"buffer_size": 1131,
 				"line_ending": "Unix"
 			}
 		},
@@ -19,16 +19,32 @@
 			"file": "www/js/app.js",
 			"settings":
 			{
-				"buffer_size": 2299,
+				"buffer_size": 2361,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "www/templates/tabs.html",
+			"file": "www/js/controllers.js",
 			"settings":
 			{
-				"buffer_size": 840,
+				"buffer_size": 1672,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/templates/login.html",
+			"settings":
+			{
+				"buffer_size": 776,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/templates/forgot-pw.html",
+			"settings":
+			{
+				"buffer_size": 480,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -56,6 +72,17 @@
 	},
 	"file_history":
 	[
+		"/C/Users/omcnamara/Documents/Projects/budjee/www/templates/settings.html",
+		"/C/Users/omcnamara/Documents/Projects/budjee/www/templates/home.html",
+		"/C/Users/omcnamara/Documents/Projects/budjee/www/templates/login.html",
+		"/C/Users/omcnamara/Documents/Projects/budjee/www/templates/test.html",
+		"/C/Users/omcnamara/Documents/Projects/budjee/www/templates/nav.html",
+		"/C/Users/omcnamara/Documents/Projects/budjee/www/js/services.js",
+		"/C/Users/omcnamara/Documents/Projects/budjee/www/templates/tabs.html",
+		"/C/Users/omcnamara/Documents/Projects/budjee/www/templates/about.html",
+		"/C/Users/omcnamara/Documents/Projects/budjee/www/templates/calendar.html",
+		"/C/Users/omcnamara/Documents/Projects/budjee/www/templates/transactions.html",
+		"/C/Users/omcnamara/Documents/Projects/budjee/www/templates/tab-dash.html",
 		"/C/Users/omcnamara/Documents/Projects/budjee/.gitignore",
 		"//dev-2k3-web2/sites/riverparkfunds.extranet/Templates/Funds_Holdings_ShortTerm.aspx",
 		"//10.100.4.15/wwwroot/RiverParkFunds/Templates/Funds_Holdings_ShortTerm.aspx",
@@ -99,7 +126,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -107,15 +134,15 @@
 					"file": "www/index.html",
 					"settings":
 					{
-						"buffer_size": 1132,
+						"buffer_size": 1131,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1113,
-								1113
+								1097,
+								1097
 							]
 						],
 						"settings":
@@ -135,15 +162,15 @@
 					"file": "www/js/app.js",
 					"settings":
 					{
-						"buffer_size": 2299,
+						"buffer_size": 2361,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1277,
-								1277
+								1190,
+								1190
 							]
 						],
 						"settings":
@@ -153,32 +180,84 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 225.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "www/templates/tabs.html",
+					"file": "www/js/controllers.js",
 					"settings":
 					{
-						"buffer_size": 840,
+						"buffer_size": 1672,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								840,
-								840
+								379,
+								379
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "www/templates/login.html",
+					"settings":
+					{
+						"buffer_size": 776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								613,
+								613
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "www/templates/forgot-pw.html",
+					"settings":
+					{
+						"buffer_size": 480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								480,
+								480
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -195,7 +274,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
